@@ -5,7 +5,7 @@
 - 디자인 패턴
   - MVC 패턴
 - 프로그래밍 패러다임
-  - 함수형 프로그래밍
+  - [함수형 프로그래밍](https://blog.naver.com/vici2021/222507798987)
 - 아키텍쳐
   - RestAPI
 - 소프트웨어 엔지니어링
@@ -20,10 +20,11 @@
 ## Java
 ------------
 #### 
-1. 직렬화(Serialization)
-2. 오토박싱(auto-boxing)과 오토언박싱(auto-unboxing)
+1. [직렬화(Serialization)](https://blog.naver.com/vici2021/222515090924)
+2. [오토박싱(auto-boxing)과 오토언박싱(auto-unboxing)](https://blog.naver.com/vici2021/222515091416)
 3. 가비지콜렉터(Garbage Collector)
 4. JVM
+5. [String, StringBuffer, String Builder](https://blog.naver.com/vici2021/222513997403)
 
 
 <br>

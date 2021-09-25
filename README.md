@@ -2,6 +2,13 @@
 ## Computer Science
 ------------
 ####
+- 운영체제
+  - sync와 async
+  - blocking과 nonblocking
+  - race condition, critical section
+  - deadlock, starvation
+  - 캐시 메모리
+  - 프로세스와 스레드
 - 디자인 패턴
   - MVC 패턴
 - 프로그래밍 패러다임

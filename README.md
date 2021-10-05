@@ -3,10 +3,10 @@
 ------------
 ####
 - 운영체제
-  - sync와 async
+  - [sync와 async](https://blog.naver.com/vici2021/222519071281)
   - blocking과 nonblocking
-  - race condition, critical section
-  - deadlock, starvation
+  - [race condition, critical section](https://blog.naver.com/vici2021/222526827754)
+  - [deadlock, starvation](https://blog.naver.com/vici2021/222519087793)
   - 캐시 메모리
   - 프로세스와 스레드
 - 디자인 패턴

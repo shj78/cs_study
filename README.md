@@ -3,8 +3,7 @@
 ------------
 ####
 - 운영체제
-  - [sync와 async](https://blog.naver.com/vici2021/222519071281)
-  - blocking과 nonblocking
+  - [sync와 async, blocking과 nonblocking](https://blog.naver.com/vici2021/222519071281)
   - [race condition, critical section](https://blog.naver.com/vici2021/222526827754)
   - [deadlock, starvation](https://blog.naver.com/vici2021/222519087793)
   - 캐시 메모리

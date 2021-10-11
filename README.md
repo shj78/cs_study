@@ -32,6 +32,7 @@
 3. 가비지콜렉터(Garbage Collector)
 4. JVM
 5. [String, StringBuffer, String Builder](https://blog.naver.com/vici2021/222513997403)
+6. [Generics](https://blog.naver.com/vici2021/222533199059)
 
 
 ## Security

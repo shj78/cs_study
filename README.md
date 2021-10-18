@@ -11,6 +11,7 @@
 - 디자인 패턴
   - MVC 패턴
 - 프로그래밍 패러다임
+  - [객체지향 프로그래밍](https://blog.naver.com/vici2021/222531765071)
   - [함수형 프로그래밍](https://blog.naver.com/vici2021/222507798987)
 - 아키텍쳐
   - RestAPI
@@ -18,11 +19,22 @@
   - TDD와 DDD
   - 쿠버네티스
 - 데이터 베이스
+  - JOIN
+  - 정규화
+- 알고리즘
+  - [선택정렬, 거품정렬, 삽입정렬, 퀵정렬](https://blog.naver.com/vici2021/222529844873)
+  - 힙정렬, 병합정렬, 셸정렬
+  - 다익스트라 알고리즘
+  - BFS, DFS
+- 자료구조
+  - Stack vs Queue vs Deque
+  - 힙
+  - 그래프와 트리
+  - 해시테이블
+ 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ## Java
 ------------
@@ -39,10 +51,6 @@
 ------------
 #### 
 1. [CSRF(Cross Site Request Forgery)](https://blog.naver.com/vici2021/222530371725)
-
-
-
-
 
 <br>
 <br>
